@@ -1,0 +1,12 @@
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Flyweight\obj\x86\Debug\Flyweight.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Flyweight\obj\x86\Debug\Flyweight.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Flyweight\obj\x86\Debug\Flyweight.pdb

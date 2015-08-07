@@ -1,0 +1,13 @@
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Proxy\bin\Debug\Proxy.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Proxy\obj\x86\Debug\Proxy.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Proxy\bin\Debug\Proxy.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Proxy\obj\x86\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Proxy\obj\x86\Debug\Proxy.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Proxy\obj\x86\Debug\Proxy.pdb

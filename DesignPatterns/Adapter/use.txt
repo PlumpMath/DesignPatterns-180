@@ -1,0 +1,5 @@
+É um padrão que permite que duas interfaces não relacionadas trabalhem em conjunto. O link entre elas é feito pela classe adaptadora
+
+Quando você precisa ter nomes de métodos diferentes (entre os chamados e os executados);
+Quando você quer ter diferentes conjuntos de métodos (para propósitos diferentes);
+Quando quiser criar classes reusáveis.

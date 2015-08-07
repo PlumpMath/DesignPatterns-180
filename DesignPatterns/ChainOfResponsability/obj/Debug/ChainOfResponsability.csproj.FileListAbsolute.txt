@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\obj\Debug\ChainOfResponsability.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\obj\Debug\ChainOfResponsability.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsWinForms\ChainOfResponsability\obj\Debug\ChainOfResponsability.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\ChainOfResponsability\obj\Debug\ChainOfResponsability.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\ChainOfResponsability\obj\Debug\ChainOfResponsability.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\ChainOfResponsability\bin\Debug\ChainOfResponsability.pdb

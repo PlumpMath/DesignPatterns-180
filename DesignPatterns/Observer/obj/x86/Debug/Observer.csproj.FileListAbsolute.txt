@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Observer\bin\Debug\Observer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Observer\bin\Debug\Observer.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Observer\obj\x86\Debug\Observer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Observer\obj\x86\Debug\Observer.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Observer\bin\Debug\Observer.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Observer\bin\Debug\Observer.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Observer\obj\x86\Debug\Observer.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Observer\obj\x86\Debug\Observer.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Observer\obj\x86\Debug\Observer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Observer\obj\x86\Debug\Observer.pdb

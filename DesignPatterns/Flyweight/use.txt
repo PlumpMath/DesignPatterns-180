@@ -1,0 +1,5 @@
+É o pattern que diminui o consumo de memória ao compartilhar dados entre objetos similares. Normalmente é usado com coleções pequenas de objetos.
+
+Quando você tem muitos objetos em memória;
+Quando você pode compartilhar estado entre objetos;
+Quando você quer economizar memória.

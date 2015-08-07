@@ -1,0 +1,12 @@
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Facade\bin\Debug\Facade.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Facade\bin\Debug\Facade.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Facade\obj\x86\Debug\Facade.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Facade\obj\x86\Debug\Facade.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Facade\bin\Debug\Facade.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Facade\bin\Debug\Facade.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Facade\obj\x86\Debug\Facade.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Facade\obj\x86\Debug\Facade.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Facade\obj\x86\Debug\Facade.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Facade\obj\x86\Debug\Facade.pdb

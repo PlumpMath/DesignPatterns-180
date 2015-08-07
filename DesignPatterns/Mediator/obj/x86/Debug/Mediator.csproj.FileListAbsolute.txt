@@ -1,0 +1,4 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Mediator\obj\x86\Debug\Mediator.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Mediator\obj\x86\Debug\Mediator.pdb

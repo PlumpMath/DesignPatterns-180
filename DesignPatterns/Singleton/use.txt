@@ -1,0 +1,11 @@
+“Defina uma família de algoritmos, encapsule cada um, e torne-os intercambiáveis.
+Strategy permite que o algoritmo varie idependente dos clientes que o utilizam.”
+
+O Strategy é utilizado quando você tem um determinado algoritmo, 
+rotina ou algo deste tipo, e que pode mudar em determinadas ocasiões. 
+Suponhamos que você por exemplo tem uma classe de cálculo de juros e que
+em uma determinada data do ano, a taxa de juros diminui por conta de uma promoção.
+Então em cenários como este você, utilizaria o Strategy para auxiliar na solução
+desta demanda sem causar grande impacto para efetuar a mudança. 
+Observe o diagrama do pattern abaixo:
+

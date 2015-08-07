@@ -1,0 +1,12 @@
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Adapter\bin\Debug\Adapter.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Adapter\obj\x86\Debug\Adapter.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Adapter\bin\Debug\Adapter.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Adapter\obj\x86\Debug\Adapter.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Adapter\obj\x86\Debug\Adapter.pdb

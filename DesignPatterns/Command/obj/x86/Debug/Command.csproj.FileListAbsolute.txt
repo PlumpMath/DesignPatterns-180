@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Command\bin\Debug\Command.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Command\bin\Debug\Command.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Command\obj\x86\Debug\Command.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Command\obj\x86\Debug\Command.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Command\bin\Debug\Command.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Command\bin\Debug\Command.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Command\obj\x86\Debug\Command.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Command\obj\x86\Debug\Command.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Command\obj\x86\Debug\Command.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Command\obj\x86\Debug\Command.pdb

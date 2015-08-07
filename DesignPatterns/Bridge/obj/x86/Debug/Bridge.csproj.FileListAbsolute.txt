@@ -1,0 +1,12 @@
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Bridge\bin\Debug\Bridge.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Bridge\bin\Debug\Bridge.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Bridge\obj\x86\Debug\Bridge.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Bridge\obj\x86\Debug\Bridge.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Bridge\bin\Debug\Bridge.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Bridge\obj\x86\Debug\Bridge.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Bridge\obj\x86\Debug\Bridge.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Bridge\obj\x86\Debug\Bridge.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Bridge\obj\x86\Debug\Bridge.pdb

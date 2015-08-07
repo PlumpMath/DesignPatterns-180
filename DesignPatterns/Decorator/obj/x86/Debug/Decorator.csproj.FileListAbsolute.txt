@@ -1,0 +1,13 @@
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Decorator\bin\Debug\Decorator.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Decorator\bin\Debug\Decorator.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Decorator\obj\x86\Debug\Decorator.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Decorator\obj\x86\Debug\Decorator.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Decorator\bin\Debug\Decorator.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Decorator\obj\x86\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Decorator\obj\x86\Debug\Decorator.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Decorator\obj\x86\Debug\Decorator.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Decorator\obj\x86\Debug\Decorator.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Decorator\obj\x86\Debug\Decorator.pdb

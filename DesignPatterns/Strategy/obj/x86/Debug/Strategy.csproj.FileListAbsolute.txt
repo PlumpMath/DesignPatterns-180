@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Strategy\bin\Debug\Strategy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatternsWinForms\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Strategy\bin\Debug\Strategy.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Strategy\obj\x86\Debug\Strategy.pdb

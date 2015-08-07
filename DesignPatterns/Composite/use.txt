@@ -1,0 +1,8 @@
+É um padrão que nos permite tratar de forma igual objetos simples e objetos compostos (formados por outros objetos).
+
+Compor objetos em estruturas de árvore para representar hierarquia partes-todo. Composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos
+
+Usar:
+
+-Quando você tem uma estrutura irregular de objetos simples e compostos (pais e filhos, pastas e arquivos, por exemplo);
+-Quando você quer tratar os objetos simples e os compostos da mesma forma.

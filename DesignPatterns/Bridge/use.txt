@@ -1,0 +1,8 @@
+É um padrão que nos permite separar a implementação da abstração
+
+Usar:
+
+-Quando queremos ocultar do cliente a implementação;
+-Quando queremos evitar o vínculo (p.e. herança) entre a abstração e a implementação;
+-Quando queremos alterar a implementação sem recompilar a abstração.
+

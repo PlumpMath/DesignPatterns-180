@@ -1,0 +1,13 @@
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Composite\bin\Debug\Composite.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Composite\bin\Debug\Composite.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Composite\obj\x86\Debug\Composite.exe
+c:\users\administrador\documents\visual studio 2010\Projects\DesignPatternsWinForms\Composite\obj\x86\Debug\Composite.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Composite\bin\Debug\Composite.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Composite\bin\Debug\Composite.pdb
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Composite\obj\x86\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Composite\obj\x86\Debug\Composite.exe
+C:\Users\Administrator\Documents\DesignPatternsWinForms\DesignPatternsWinForms\Composite\obj\x86\Debug\Composite.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Composite\obj\x86\Debug\Composite.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DesignPatterns\DesignPatterns\DesignPatterns\Composite\obj\x86\Debug\Composite.pdb
